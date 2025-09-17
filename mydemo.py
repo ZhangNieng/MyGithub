@@ -9,3 +9,4 @@ def new_name(name):
 
 if __name__ == '__main__':
     new_name("zhangning")
+    new_name("张宁")
